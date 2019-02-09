@@ -1,0 +1,7 @@
+0.gradle built  implementation 'com.android.support:design:28.0.0' 
+1.res->drwable-> get icon of diiferen diffrent.
+2.res->  create directory menu. 
+3.menu-> create resource file and  define item all like 3or 4 bottom navigation.
+4.main xml -> create FrameLayout and BottomNavigationView buttom.
+5.create all fragment
+6.main activity->create BottomNavigation and link all fragment  
